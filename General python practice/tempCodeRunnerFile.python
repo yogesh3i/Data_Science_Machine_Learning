@@ -1,0 +1,770 @@
+# %% [markdown]
+# # Here i will perform all my Python practice for Data Science 
+
+# %%
+# Cariables in python : Data or values are used ot store at temporary space called as variables. 
+
+student='Varun'
+
+
+# %%
+student='Dhuv'
+
+# %%
+# It can be change as many time as require 
+
+student='Tu'
+
+# %% [markdown]
+# # Data types in python:
+# 
+# int
+# float
+# boolian 
+# complex
+
+# %%
+num1=10
+type(num1)
+
+
+# %%
+decimate=3.14
+type(decimate)
+
+# %%
+log1=True
+type(log1)
+
+# %%
+char1='Yogesh'
+type(char1)
+
+# %%
+t=1+2j
+type(t)
+
+# %% [markdown]
+# # Operators in Python:
+# 
+# Arithmatic: +.-,/,*,//
+# Relational iperator: <,>,==,!=,<=,>=
+# Logical operator: &,|
+# 
+# 
+
+# %%
+num1=10
+num2=20
+
+num1+num2
+
+# %%
+num1-num2
+
+# %%
+num1*num2
+
+# %%
+num1/num2   #simple division with decimal pt
+
+# %%
+num1//num2  # this is the floor divisionn and it will not read the value beyond the decimanl pt 
+
+# %%
+nu1=50
+nu2=90
+
+# %%
+nu1>nu2
+
+# %%
+nu1<nu2
+
+# %%
+nu1==nu2
+
+# %%
+nu1!=nu2
+
+# %%
+nu1<=nu2
+
+# %%
+nu1>=nu2
+
+# %%
+log1=True
+log2=False 
+
+# %%
+log1&log2
+
+# %%
+log2&log2
+
+# %%
+log1&log1
+
+# %%
+log1|log2
+
+# %%
+log2|log1
+
+# %%
+log1|log1
+
+# %%
+log2|log2
+
+# %% [markdown]
+# # Python tokens: Smallest meaningfull component iny he program.
+# 
+# Keywords 
+# Identifiers 
+# Literals
+# Operators 
+
+# %%
+# Keywords: Special reserved word in python which are alreday define in python 
+
+def=45  # def is a keyword hence we cannot store any vlaue in it 
+
+
+# %%
+# Identifiers: Names used for variabled, functio or object are known as identifiers.
+
+# Rules to define the identifiers 
+
+#1. No special char. except underscore
+#2. Identifiers are case sensetive 
+#3. First letter cannot be digit 
+
+# %%
+#Some eg. 
+n1=20
+N2=87
+
+
+# %%
+print(n1)   # Both values are different 
+print(N2)
+
+# %% [markdown]
+# # Literals in python: Literals are constants in python
+
+# %%
+n=43 # here 43 is literals 
+
+# %% [markdown]
+# # Strings in python: Strings in python are sequence of character enclosed in single,double or tripple quotes.
+
+# %%
+str1='Hello world'
+str1
+
+# %%
+str2="This is yogesh"
+str2
+
+# %%
+
+str3='''Welcome to the world'''
+str3
+
+# %%
+# Sclicing in string & functions of string 
+#len()
+#upper()
+#lower()
+#replace()
+
+# %%
+st='My name iS Yogesh'
+
+# %%
+print(st[0])
+print(st[-1])
+
+# %%
+#To reverse the string
+ 
+st[::-1]
+
+# %%
+print(len(st))
+print(st.lower())
+
+# %%
+print(st.upper())
+
+# %%
+print(st.replace('m','P'))
+
+# %%
+print(st.replace('Yogesh','Dear'))
+
+# %%
+#to  find the starting index of the string 
+
+s='Tiger reserve forest '
+s.find('reserve')
+
+# %%
+#split used to split the entirestring into multiple string 
+
+g='i like mango,apple,guava,orange'
+g.split(',')
+
+# %% [markdown]
+# # List in python: Oreder collection of the elements enclosed in []
+
+# %%
+l1=[2,3,4,5]
+type(l1)
+
+# %%
+l1[0:2]
+
+# %%
+# Indexing on python 
+
+l1[::-1] #start:stop:step and the outer limi is exclusive 
+
+# %%
+# to add at the end 
+
+l1.append('t')
+l1
+
+# %%
+l1[3]='g'
+
+# %%
+l1
+
+# %%
+l1.pop()
+
+# %%
+l1
+
+# %%
+# We can reverse it with the reverse function
+
+l1.reverse()
+l1
+
+# %%
+l1.insert(2,'then')
+l1
+
+# %%
+l2=['Mango','Orange','Tree','Guava','Bananna']
+
+# %%
+l2.reverse()
+l2
+
+# %%
+l2.sort()
+l2
+
+# %%
+#Concating the lists 
+
+print(l1)
+print(l2)
+
+# %%
+l1+l2
+
+# %%
+l2+l1
+
+# %%
+l2*5
+
+# %% [markdown]
+# # Tuple and the dictionary in the python :
+# 
+# Tuple
+# list
+# dictionary 
+# Python 
+# 
+
+# %%
+#Tuple: Tuple are odered collection of elements enclosed within ()
+ # And are imutable. 
+
+tup1=(2,3,4,5,6,'Sparta','True')
+type(tup1)
+
+# %%
+# Indexing is same for the tuple as well 
+
+print(tup1[3])
+print(tup1[-1])
+
+# %%
+tup2=(2,3,4,5)
+
+tup1+tup2
+
+# %%
+min(tup2)
+max(tup2)
+
+# %% [markdown]
+# # Dictionary: Dictionaary is an unodered collection of key-value pair enclosed with {} 
+# 
+# And its mutable.
+
+# %%
+fruits={'mango':10, 'Apple':30,'staubarry':50}
+
+
+# %%
+type(fruits)
+
+# %%
+# To get the keys
+fruits.keys()
+
+# %%
+# To get the values
+fruits.values()
+
+# %%
+#To add new values
+
+fruits['Papaya']=50
+
+# %%
+fruits
+
+# %%
+# To change the exsisting values in the dict. 
+
+fruits['Apple']=56
+
+# %%
+fruits
+
+# %%
+#  if wanted to add two dicts. 
+dict1={'Apple':33,'Watermelon':40}
+dict2={'Mango':40,'Orange':100}
+
+# %%
+dict1.update(dict2)
+
+# %%
+dict1
+
+# %%
+# To pop the values 
+
+dict1.pop('Watermelon')
+
+# %%
+dict1
+
+# %% [markdown]
+# # Sets in python: Sets is an unodered and unindexed collection of the elements enclosed with {}
+# 
+# Duplicates are not allowed 
+
+# %%
+s1={1,'V','h','i','v','i'}
+
+# %%
+s1   # As repetation not allowed its taking at one time 
+
+# %%
+s1.add('Rour')
+
+# %%
+s1.remove('V')
+
+
+# %%
+s1
+
+# %%
+s1={3,4,5,6,7,8,0}
+s2={'Tear','Face','Lord','Hanuman'}
+
+# %%
+#Taking union 
+
+s1.union(s2)
+
+# %%
+# Intersection:
+
+s1={1,2,3,4,5,6}
+s2={5,6,7,8,9,9}
+
+s1.intersection(s2)
+
+# %% [markdown]
+# # Flow control statements in python: Consist of two stgatements 
+# 
+# 1. Decision making statements:
+# 
+# if, else
+# 
+# 2. Looping statements 
+# 
+# for, while 
+# 
+# 
+# 
+# 
+
+# %%
+a=['Yes','No']
+
+tell=input('Enter your ans:')
+if tell=='Yes':
+    print('Ok fine')
+else:
+    print('No Problem')
+
+# %%
+a=30
+b=45
+c=32
+
+if a>b:
+    print('A is greater')
+else:
+    print('B is greater')
+
+
+# %%
+if a>b and a>c:
+    print('A is greater')
+elif b>a and b>c:
+    print('B is greater')
+else:
+    print('C is greater')
+
+# %%
+import random 
+import time 
+
+whether_condition= ['Raining','Not Raining']
+player_choice =['Yes','No']
+
+player_choice=input('Enter your choice (yes/no)')
+
+if player_choice=='Yes':
+    
+    print('Checkig whether condition........')
+    time.sleep(4)
+    whether=random.choice(whether_condition)
+    if whether=='Raining':
+        print('Try to avoide playing as it is raining')
+    else:
+        print('Its good day to play.....Good Luck !')
+
+else:
+    print('No problem you can take rest today')
+
+# %%
+import random
+import time
+
+weather_conditions = ['Raining', 'Not Raining']
+
+player_choice = input("Do you want to play cricket? (Yes/No): ")
+
+if player_choice.lower() == 'yes':
+    print("Checking weather conditions", end="")
+    for n in range(6):
+        time.sleep(1)  # Pause for 1 second
+        print(".", end="", flush=True)  # Display a dot without a newline
+    print()  # Print a newline after the dots
+    weather = random.choice(weather_conditions)
+    if weather == 'Raining':
+        print("It's raining. Better not play cricket.")
+    else:
+        print("It's not raining. You can play cricket.")
+else:
+    print("No problem. Enjoy your day!")
+
+
+# %%
+# Asking a man want dinner or not 
+
+import time 
+import random 
+
+food_choice= ['Salad and Chole bhature', 'Chicken','Mutton Biryani','Aaloo paratha','Dal rice']
+
+man_choice=input('Please let us know want food or not(Yes/No)')
+
+if man_choice=='Yes':
+    print('checking available menu',end='')
+    for n in range(4):
+        time.sleep(1)
+        print('.', end='', flush=True)
+    food=random.choice(food_choice)
+    print(f'\nIn todays menu {food} is available Enjoy it !!')
+else:
+    print('No problem ...have nice Day!')
+
+# %%
+tup1= ('a','b','c')
+
+
+# %%
+if 'a' in tup1:
+    print('Yes it is there')
+else:
+    print('No it is not there')
+
+# %%
+l1 =['a','b','c','d']
+
+if l1[0]=='a':
+    l1[0]='z'
+
+else:
+    print('Wrong')
+
+# %%
+l1
+
+# %%
+d1={'key1':10,'key2':20,'key3':30,'key4':40}
+
+if d1['key3']==30:
+    d1['key3']=d1['key3']+100
+print(d1)
+
+# %%
+# For loop
+
+l1=['Apple','Mango','Gvava','Berry']
+
+for i in l1:
+    print(i)
+
+# %%
+l1=['Yello','Green','Blue','Orange','White','Black']
+l2=['Books','Pen', 'House','Bike','Laptp','HAR']
+
+for i in l1:
+    for j in l2:
+        print(i,j)
+
+# %%
+i=1
+while i<=10:
+    print(i)
+    i+=1
+
+# %%
+i=1
+n=2
+
+while i<=10:
+    print(n,'*',i,'=',n*i)
+    i+=1
+
+# %% [markdown]
+# # Object oriented programming:
+# 
+# There are two main aspects of the OOPS 
+# 1.Class: Class is template or blue print for the real world entity. 
+# 
+# **And class id nothing but a user define data type.**
+# 
+# 
+# eg. Phone is class 
+# 
+# Its having some properties 
+# - Color
+# - Cost
+# - Battery life
+# 
+# Also have some Behavior
+# -Make calls
+# -Watch vides
+# -Play games
+# 
+# 
+# # Atributes and the methods of class:
+# Atrutes are nothing but a properties of the class.
+# Methods are the behaviour of the class.
+# 
+# **What is object ?**
+# 
+# Object are specific instance of the class. 
+
+# %%
+import time
+
+class Phone:   # Creating class
+    def make_call(self):
+         print('Making phone call')
+    
+    def paly_game(self):
+        print('Playing game')
+
+p1=Phone() # Creating object for class 
+
+p1.make_call() # With the help of object invoking the methods of class.
+p1.paly_game()
+
+
+# %%
+# Addign extra atribute into the class 
+
+class Phone:
+
+    def set_color(self,color):
+        self.color=color
+
+    def set_cost(self,cost):
+        self.cost=cost
+
+    def show_color(self):
+        return self.color
+
+    def show_cost(self):
+        return self.cost
+
+    def make_call(self):
+        print('making call')
+    
+    def play_game(self):
+        print('Playing game ')
+
+# %%
+# creating object
+
+p1=Phone()
+
+# %%
+p1.set_color('green')
+p1.set_cost('9999$')
+
+# %%
+p1.show_color()
+
+
+# %%
+p1.show_cost()
+
+# %%
+# Example of constructor
+
+class Employee:
+
+    def __init__(self,name,age,salary,gender):
+
+        self.name=name
+        self.age=age
+        self.salary=salary
+        self.gender=gender
+    
+    def employee_details(self):
+        print('Name of the employee is:',self.name)
+        print('Age of the employee is:',self.age)
+        print('Salary of the employee is:',self.salary)
+        print('Gender of the employee is: ', self.gender)
+
+
+# %%
+p1=Employee('Ajay',24,180000, 'Male')
+p1.employee_details()
+
+# %%
+# Inhariance in python:
+
+Tu
+
+With inharitance one class can derive the properties of the another class.
+
+# %%
+# malking one parent class:
+
+class  Vehicle:
+
+    def __init__(self,milage,cost):
+        self.milage=milage
+        self.cost=cost
+
+    def show_details(self):
+        print('Hello I am a vehicle')
+        print('Milage is:',self.milage)
+        print('Cost is',self.cost)
+
+
+        
+
+# %%
+# object:
+
+v=Vehicle(60,163000)
+v.show_details()
+
+# %%
+# Creating child class:
+
+class Car(Vehicle):  # Here in parenthesis the name of parent class is given 
+    def show_car(self):
+        print('I am a car')
+
+
+
+# %%
+#making object :
+
+c1=Car(60,80000)
+c1.show_details()
+
+# %%
+c1.show_car()   # Invoking the child class 
+
+# %%
+# Now addigng __init__ method to the super class or parent class 
+
+class Rour(Vehicle):
+    def __init__(self,milage,cost,tyres,hp):
+        super().__init__(milage,cost)
+        self.tyres=tyres
+        self.hp= hp
+
+    def show_car_details(self):
+        print('The tyres are',self.tyres)
+        print('The hourse power is:',self.hp)
+
+
+
+
+
+
+
+
+
+
+# %%
+p1=Rour(50,165000,'MRF',14)
+
+# %%
+p1.show_details()  #Invoking parent class
+
+# %%
+p1.show_car_details()  # invoking child class
+
+# %%
+
+
+

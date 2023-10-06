@@ -1,0 +1,383 @@
+,ID,Name,Alignment_x,Gender,Height,Weight,Intelligence_x,Strength,Speed,Durability_x,Power,Combat,Total,Agility
+0,0,A-Bomb,good,Male,203,441,38,100,17,80,17,64,316,FALSE
+1,3,Abomination,bad,Male,203,441,63,80,53,90,55,95,436,FALSE
+2,4,Abraxas,bad,Male,-99,-99,88,100,83,99,100,56,526,FALSE
+3,5,Absorbing Man,bad,Male,193,122,,,,,,,,FALSE
+4,8,Agent 13,good,Female,173,61,,,,,,,,
+5,9,Agent Bob,good,Male,178,81,10,8,13,5,5,20,61,FALSE
+6,10,Agent Zero,good,Male,191,104,75,28,38,80,72,95,388,FALSE
+7,11,Air-Walker,bad,Male,188,108,50,85,100,85,100,40,460,FALSE
+8,12,Ajax,bad,Male,193,90,,,,,,,,TRUE
+9,20,Ammo,bad,Male,188,101,1,1,1,1,0,1,5,FALSE
+10,22,Angel,good,Male,183,68,63,13,46,64,17,42,245,TRUE
+11,24,Angel Dust,good,Female,165,57,,,,,,,,TRUE
+12,25,Angel Salvadore,good,Female,163,54,38,10,28,28,46,60,210,FALSE
+13,28,Annihilus,bad,Male,180,90,75,80,47,56,59,64,381,TRUE
+14,29,Ant-Man,good,Male,211,122,100,10,23,28,32,32,225,FALSE
+15,30,Ant-Man II,good,Male,183,86,63,10,23,28,32,28,184,TRUE
+16,33,Anti-Venom,-,Male,229,358,75,60,65,90,85,84,459,FALSE
+17,34,Apocalypse,bad,Male,213,135,100,100,33,100,100,60,493,TRUE
+18,38,Arachne,good,Female,175,63,1,1,1,1,0,1,5,TRUE
+19,39,Archangel,good,Male,183,68,63,13,58,64,28,42,268,TRUE
+20,40,Arclight,bad,Female,173,57,38,63,23,42,52,70,288,FALSE
+21,41,Ardina,good,Female,193,98,,,,,,,,TRUE
+22,42,Ares,good,Male,185,270,75,82,35,80,62,101,435,TRUE
+23,43,Ariel,good,Female,165,59,50,10,12,14,72,28,186,FALSE
+24,44,Armor,good,Female,163,50,50,63,12,80,55,54,314,FALSE
+25,47,Atlas,good,Male,183,101,50,80,23,99,69,42,363,FALSE
+26,55,Aurora,good,Female,180,63,50,15,83,56,69,56,329,FALSE
+27,56,Azazel,bad,Male,183,67,50,11,47,95,87,80,370,FALSE
+28,60,Banshee,good,Male,183,77,50,10,58,42,60,70,290,FALSE
+29,61,Bantam,good,Male,165,54,25,53,23,54,21,56,232,FALSE
+30,71,Battlestar,good,Male,198,133,50,53,35,74,48,74,334,TRUE
+31,73,Beak,good,Male,175,63,1,1,1,1,0,1,5,FALSE
+32,74,Beast,good,Male,180,181,88,48,35,56,35,84,346,TRUE
+33,76,Beetle,bad,Male,-99,-99,1,1,1,1,0,1,5,
+34,78,Beta Ray Bill,good,Male,201,216,63,80,35,95,100,84,457,FALSE
+35,79,Beyonder,good,Male,-99,-99,88,100,23,100,100,56,467,FALSE
+36,82,Big Man,bad,Male,165,71,75,12,23,28,19,70,227,FALSE
+37,85,Binary,good,Female,180,54,1,1,1,1,0,1,5,FALSE
+38,87,Bird-Brain,good,-,-99,-99,25,10,35,28,21,42,161,FALSE
+39,88,Bird-Man,bad,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+40,89,Bird-Man II,bad,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+41,91,Bishop,good,Male,198,124,63,14,23,75,85,65,325,FALSE
+42,93,Black Abbott,bad,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+43,95,Black Bolt,good,Male,188,95,75,67,100,84,100,56,482,TRUE
+44,98,Black Cat,good,Female,178,54,75,16,33,10,23,70,227,TRUE
+45,100,Black Goliath,good,Male,-99,-99,1,1,1,1,0,1,5,
+46,101,Black Knight III,good,Male,183,86,63,10,8,70,43,70,264,FALSE
+47,103,Black Mamba,bad,Female,170,52,75,10,35,42,78,65,305,FALSE
+48,105,Black Panther,good,Male,183,90,88,16,30,60,41,100,335,TRUE
+49,106,Black Widow,good,Female,170,59,75,13,27,32,32,100,279,TRUE
+50,107,Black Widow II,good,Female,170,61,1,1,1,1,0,1,5,
+51,108,Blackout,bad,Male,191,104,63,32,45,80,38,65,323,TRUE
+52,109,Blackwing,bad,Male,185,86,38,10,35,32,20,56,191,FALSE
+53,110,Blackwulf,-,Male,188,88,50,28,8,30,59,25,200,FALSE
+54,111,Blade,good,Male,188,97,63,28,38,50,33,90,302,TRUE
+55,112,Blaquesmith,good,-,-99,-99,1,1,1,1,0,1,5,
+56,113,Bling!,good,Female,168,68,69,14,12,90,52,28,265,FALSE
+57,114,Blink,good,Female,165,56,50,8,20,28,55,64,225,FALSE
+58,116,Blizzard,bad,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+59,117,Blizzard II,bad,Male,175,77,38,10,27,42,47,56,220,FALSE
+60,118,Blob,bad,Male,178,230,10,83,23,95,26,72,309,FALSE
+61,119,Bloodaxe,bad,Female,218,495,63,80,33,80,84,84,424,TRUE
+62,120,Bloodhawk,good,Male,-99,-99,50,10,50,80,66,64,320,FALSE
+63,121,Bloodwraith,bad,Male,30.5,-99,1,1,1,1,0,1,5,FALSE
+64,127,Bolt,good,Male,-99,-99,1,1,1,1,0,1,5,
+65,129,Boom-Boom,good,Female,165,55,,,,,,,,TRUE
+66,130,Boomer,good,Female,-99,-99,1,1,1,1,0,1,5,
+67,132,Box,good,Male,-99,-99,1,1,1,1,0,1,5,
+68,133,Box III,good,-,193,110,1,1,1,1,0,1,5,
+69,134,Box IV,good,-,-99,-99,50,75,23,28,11,56,243,FALSE
+70,137,Brother Voodoo,good,Male,183,99,1,1,1,1,0,1,5,FALSE
+71,140,Bullseye,bad,Male,183,90,50,11,25,70,20,70,246,FALSE
+72,142,Bumbleboy,good,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+73,144,Cable,good,Male,203,158,88,48,23,56,100,80,395,TRUE
+74,145,Callisto,bad,Female,175,74,63,53,23,42,45,85,311,TRUE
+75,147,Cannonball,good,Male,183,81,50,28,67,99,79,56,379,FALSE
+76,148,Captain America,good,Male,188,108,63,19,35,56,46,100,319,TRUE
+77,150,Captain Britain,good,Male,198,116,75,77,50,60,31,80,373,TRUE
+78,154,Captain Mar-vell,good,Male,188,108,1,1,1,1,0,1,5,
+79,155,Captain Marvel,good,Female,180,74,100,100,67,95,62,56,480,TRUE
+80,159,Captain Planet,good,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+81,160,Captain Universe,good,-,-99,-99,1,1,1,1,0,1,5,FALSE
+82,161,Carnage,bad,Male,185,86,63,63,70,84,81,90,451,TRUE
+83,162,Cat,good,Female,173,61,1,1,1,1,0,1,5,TRUE
+84,163,Cat II,good,Female,-99,-99,1,1,1,1,0,1,5,
+85,165,Cecilia Reyes,good,-,170,62,1,1,1,1,0,1,5,
+86,166,Century,good,Male,201,97,88,80,53,64,74,100,459,FALSE
+87,167,Cerebra,good,Female,-99,-99,1,1,1,1,0,1,5,FALSE
+88,168,Chamber,good,Male,175,63,50,10,20,80,57,64,281,FALSE
+89,170,Changeling,bad,Male,180,81,63,10,23,42,64,64,266,FALSE
+90,178,Clea,good,-,-99,-99,1,1,1,1,0,1,5,
+91,179,Cloak,good,Male,226,70,63,10,47,64,74,56,314,FALSE
+92,184,Colossus,good,Male,226,225,63,83,33,100,46,80,405,FALSE
+93,185,Copycat,neutral,Female,183,67,,,,,,,,FALSE
+94,186,Corsair,good,Male,191,79,1,1,1,1,0,1,5,
+95,187,Cottonmouth,bad,Male,183,99,,,,,,,,FALSE
+96,188,Crimson Crusader,good,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+97,189,Crimson Dynamo,good,Male,180,104,,,,,,,,FALSE
+98,190,Crystal,good,Female,168,50,63,16,12,14,57,56,218,FALSE
+99,195,Cyclops,good,Male,191,88,75,10,23,42,76,80,306,TRUE
+100,196,Cypher,good,-,175,68,1,1,1,1,0,1,5,
+101,197,Dagger,good,Female,165,52,63,10,35,42,52,70,272,FALSE
+102,200,Daredevil,good,Male,183,90,75,13,27,28,57,95,295,TRUE
+103,201,Darkhawk,good,Male,185,81,50,32,33,70,74,64,323,FALSE
+104,205,Darkstar,good,Female,168,56,38,8,35,42,52,64,239,FALSE
+105,210,Dazzler,good,Female,173,52,63,10,35,42,64,56,270,TRUE
+106,212,Deadpool,neutral,Male,188,95,50,15,30,100,100,100,395,TRUE
+107,214,Deathlok,good,Male,193,178,69,32,30,70,40,60,301,TRUE
+108,216,Demogoblin,bad,Male,185,95,50,48,42,35,54,60,289,TRUE
+109,217,Destroyer,bad,Male,188,383,50,95,58,98,90,70,461,FALSE
+110,218,Diamondback,bad,Male,193,90,,,,,,,,FALSE
+111,220,Doc Samson,good,Male,198,171,75,80,33,80,36,70,374,FALSE
+112,221,Doctor Doom,bad,Male,201,187,100,32,20,100,93,84,429,FALSE
+113,222,Doctor Doom II,bad,Male,201,132,1,32,1,1,0,1,36,FALSE
+114,224,Doctor Octopus,bad,Male,175,110,1,1,1,1,0,1,5,TRUE
+115,225,Doctor Strange,good,Male,188,81,100,10,12,84,100,60,366,FALSE
+116,226,Domino,good,Female,173,54,63,10,27,28,49,74,251,TRUE
+117,230,Doppelganger,bad,Male,196,104,8,63,60,95,62,84,372,TRUE
+118,231,Dormammu,bad,Male,185,-99,88,95,83,100,100,80,546,FALSE
+119,233,Drax the Destroyer,good,Male,193,306,,,,,,,,TRUE
+120,234,Ego,bad,-,-99,-99,88,80,83,99,71,28,449,FALSE
+121,236,Electro,bad,Male,180,74,69,10,50,56,67,64,316,FALSE
+122,237,Elektra,good,Female,175,59,63,11,30,28,59,100,291,TRUE
+123,240,Emma Frost,good,Female,178,65,75,63,35,90,82,42,387,FALSE
+124,246,Evil Deadpool,bad,Male,188,95,,,,,,,,TRUE
+125,247,Evilhawk,bad,Male,191,106,50,32,33,70,78,64,327,FALSE
+126,248,Exodus,bad,Male,183,88,63,81,28,28,100,70,370,FALSE
+127,249,Fabian Cortez,bad,-,196,96,1,1,1,1,0,1,5,FALSE
+128,250,Falcon,good,Male,188,108,38,13,50,28,22,64,215,FALSE
+129,251,Fallen One II,bad,Male,-99,-99,88,85,83,100,100,56,512,FALSE
+130,253,Feral,good,-,175,50,38,28,45,28,20,70,229,TRUE
+131,255,Fin Fang Foom,good,Male,975,18,50,81,23,100,68,70,392,FALSE
+132,256,Firebird,good,Female,165,56,38,8,40,14,90,42,232,FALSE
+133,257,Firelord,good,-,193,99,38,63,75,90,48,28,342,FALSE
+134,258,Firestar,good,Female,173,56,50,8,54,55,71,32,270,FALSE
+135,261,Fixer,bad,-,-99,-99,1,1,1,1,0,1,5,
+136,267,Forge,good,-,183,81,63,10,12,28,12,48,173,FALSE
+137,268,Franklin Richards,good,Male,142,45,1,1,1,1,0,1,5,TRUE
+138,269,Franklin Storm,good,-,188,92,38,10,1,1,0,10,60,
+139,270,Frenzy,bad,Female,211,104,63,53,35,100,38,52,341,FALSE
+140,271,Frigga,good,Female,180,167,1,1,1,1,0,1,5,FALSE
+141,272,Galactus,neutral,Male,876,16,100,100,83,100,100,70,553,FALSE
+142,273,Gambit,good,Male,185,81,63,10,23,28,55,84,263,TRUE
+143,274,Gamora,good,Female,183,77,,,,,,,,TRUE
+144,278,Genesis,good,Male,185,86,1,1,1,1,0,1,5,FALSE
+145,279,Ghost Rider,good,Male,188,99,50,55,25,100,70,60,360,TRUE
+146,280,Ghost Rider II,good,-,-99,-99,1,1,1,1,0,1,5,FALSE
+147,281,Giant-Man,good,Male,-99,-99,1,1,1,1,0,1,5,
+148,282,Giant-Man II,good,Male,-99,-99,1,1,1,1,0,1,5,
+149,284,Gladiator,neutral,Male,198,268,,,,,,,,TRUE
+150,285,Goblin Queen,bad,Female,168,50,75,10,23,28,65,56,257,FALSE
+151,291,Goliath,good,Male,-99,-99,1,1,1,1,0,1,5,
+152,292,Goliath IV,good,Male,183,90,1,1,1,1,0,1,5,FALSE
+153,295,Gravity,good,Male,178,79,50,32,33,40,72,30,257,FALSE
+154,298,Green Goblin,bad,Male,180,83,75,48,35,48,38,28,272,TRUE
+155,299,Green Goblin II,bad,Male,178,77,75,55,37,50,38,26,281,FALSE
+156,300,Green Goblin III,good,Male,183,88,1,1,1,1,0,1,5,FALSE
+157,301,Green Goblin IV,good,Male,178,79,1,1,1,1,0,1,5,FALSE
+158,302,Groot,good,Male,701,4,75,85,33,70,92,64,419,FALSE
+159,303,Guardian,good,Male,-99,-99,1,1,1,1,0,1,5,
+160,310,Havok,good,Male,183,79,63,10,25,60,71,45,274,FALSE
+161,312,Hawkeye,good,Male,191,104,50,12,23,14,26,80,205,TRUE
+162,313,Hawkeye II,good,Female,165,57,50,6,8,10,24,50,148,FALSE
+163,320,Hela,bad,Female,213,225,,,,,,,,TRUE
+164,322,Hellcat,good,Female,173,61,50,10,23,42,18,70,213,TRUE
+165,323,Hellstorm,good,Male,185,81,1,1,1,1,0,1,5,FALSE
+166,324,Hercules,good,Male,196,146,63,100,46,85,67,100,461,FALSE
+167,327,Hobgoblin,bad,Male,180,83,1,1,1,1,0,1,5,FALSE
+168,328,Hollow,good,Female,170,-99,1,1,1,1,0,1,5,FALSE
+169,329,Hope Summers,good,Female,168,48,63,10,12,32,89,75,281,FALSE
+170,330,Howard the Duck,good,Male,79,18,1,1,1,1,0,1,5,
+171,331,Hulk,good,Male,244,630,88,100,47,100,41,85,461,TRUE
+172,332,Human Torch,good,Male,178,77,56,10,63,70,74,42,315,TRUE
+173,334,Husk,good,Female,170,58,63,63,35,78,53,64,356,FALSE
+174,335,Hybrid,good,Male,175,77,,,,,,,,TRUE
+175,336,Hydro-Man,bad,Male,188,119,38,13,25,80,66,50,272,FALSE
+176,337,Hyperion,good,Male,183,207,63,95,75,95,58,72,458,TRUE
+177,338,Iceman,good,Male,173,65,63,32,53,100,100,64,412,TRUE
+178,342,Ink,good,Male,180,81,38,28,17,40,66,50,239,FALSE
+179,343,Invisible Woman,good,Female,168,54,69,10,27,70,74,56,306,FALSE
+180,344,Iron Fist,good,Male,180,79,75,23,35,42,43,100,318,TRUE
+181,345,Iron Man,good,Male,198,191,100,85,58,85,100,64,492,FALSE
+182,346,Iron Monger,bad,Male,-99,2,88,63,25,90,57,56,379,FALSE
+183,349,Jack of Hearts,good,Male,155,79,63,55,100,30,70,30,348,FALSE
+184,355,Jean Grey,good,Female,168,52,100,80,67,100,100,70,517,FALSE
+185,357,Jennifer Kale,good,Female,168,55,75,10,35,42,61,72,295,FALSE
+186,360,Jessica Jones,good,Female,170,56,,,,,,,,FALSE
+187,362,Jigsaw,bad,Male,188,113,1,1,1,1,0,1,5,
+188,368,John Wraith,good,Male,183,88,75,12,35,28,65,80,295,FALSE
+189,370,Jolt,good,Female,165,49,63,12,27,32,31,42,207,FALSE
+190,371,Jubilee,good,Female,165,52,56,8,22,20,66,90,262,FALSE
+191,373,Juggernaut,neutral,Male,287,855,44,100,42,100,74,70,430,FALSE
+192,374,Junkpile,bad,Male,-99,-99,50,38,17,90,71,30,296,FALSE
+193,375,Justice,good,Male,178,81,50,10,33,70,55,30,248,FALSE
+194,378,Kang,bad,Male,191,104,100,48,58,70,71,70,417,FALSE
+195,391,Kingpin,bad,Male,201,203,75,18,25,40,13,70,241,
+196,392,Klaw,bad,Male,188,97,63,38,33,100,62,60,356,FALSE
+197,394,Kraven II,bad,Male,191,99,50,34,23,28,36,85,256,TRUE
+198,395,Kraven the Hunter,bad,Male,183,106,63,32,35,42,26,85,283,TRUE
+199,399,Lady Bullseye,bad,Female,-99,-99,1,1,1,1,0,1,5,FALSE
+200,400,Lady Deathstrike,bad,Female,175,58,1,1,1,1,0,1,5,TRUE
+201,401,Leader,bad,Male,178,63,100,10,12,14,58,42,236,FALSE
+202,402,Leech,good,Male,-99,-99,25,5,12,14,62,14,132,FALSE
+203,403,Legion,good,Male,175,59,,,,,,,,TRUE
+204,409,Living Brain,bad,-,198,360,75,53,35,56,31,28,278,FALSE
+205,410,Living Tribunal,neutral,-,-99,-99,,,,,,,,TRUE
+206,412,Lizard,bad,Male,203,230,38,51,27,70,40,56,282,FALSE
+207,414,Loki,bad,Male,193,236,88,57,47,85,85,56,418,FALSE
+208,415,Longshot,good,Male,188,36,50,10,27,10,71,70,238,TRUE
+209,416,Luke Cage,good,Male,198,191,44,55,23,95,35,64,316,FALSE
+210,419,Luna,good,Female,-99,-99,38,6,83,14,53,14,208,FALSE
+211,420,Lyja,good,Female,-99,-99,1,1,1,1,0,1,5,FALSE
+212,421,Mach-IV,bad,Male,180,79,75,36,60,84,60,56,371,FALSE
+213,422,Machine Man,good,-,183,383,63,32,35,84,51,64,329,FALSE
+214,423,Magneto,bad,Male,188,86,88,80,27,84,91,80,450,FALSE
+215,425,Magus,bad,Male,183,-99,88,100,70,99,100,74,531,FALSE
+216,428,Man-Thing,good,Male,213,225,50,32,8,100,98,40,328,FALSE
+217,429,Man-Wolf,good,Male,188,90,63,44,35,42,38,70,292,TRUE
+218,430,Mandarin,bad,Male,188,97,100,28,23,28,99,95,373,FALSE
+219,431,Mantis,good,Female,168,52,,,,,,,,FALSE
+220,433,Marvel Girl,good,Female,170,56,63,85,47,42,100,80,417,FALSE
+221,438,Maverick,good,Male,193,110,63,10,12,42,60,85,272,FALSE
+222,441,Medusa,good,Female,180,59,75,34,35,70,35,56,305,FALSE
+223,442,Meltdown,good,Female,165,54,38,10,12,42,58,64,224,TRUE
+224,443,Mephisto,bad,Male,198,140,88,85,35,95,100,42,445,FALSE
+225,447,Meteorite,good,Female,-99,-99,1,1,1,1,0,1,5,
+226,452,Mimic,good,Male,188,101,63,67,47,56,79,42,354,FALSE
+227,456,Mister Fantastic,good,Male,185,81,100,10,18,70,32,64,294,FALSE
+228,458,Mister Knife,bad,Male,-99,-99,,,,,,,,FALSE
+229,460,Mister Sinister,bad,Male,196,128,1,1,1,1,0,1,5,FALSE
+230,462,Mockingbird,good,Female,175,61,,,,,,,,TRUE
+231,463,MODOK,bad,Male,366,338,,,,,,,,TRUE
+232,467,Molten Man,bad,Male,196,248,50,73,23,84,53,56,339,FALSE
+233,470,Moon Knight,good,Male,188,101,50,36,23,42,28,75,254,FALSE
+234,471,Moonstone,bad,Female,180,59,56,67,47,52,79,80,381,FALSE
+235,472,Morlun,bad,Male,188,79,63,60,35,42,59,56,315,TRUE
+236,473,Morph,good,Male,178,79,1,1,1,1,0,1,5,
+237,474,Moses Magnum,bad,Male,175,72,75,28,12,42,55,56,268,FALSE
+238,475,Mr Immortal,good,Male,188,70,,,,,,,,FALSE
+239,477,Ms Marvel II,good,Female,173,61,38,63,23,84,11,56,275,FALSE
+240,478,Multiple Man,good,Male,180,70,63,11,23,70,28,62,257,FALSE
+241,479,Mysterio,bad,Male,180,79,,,,,,,,FALSE
+242,480,Mystique,bad,Female,178,54,75,12,23,64,58,74,306,TRUE
+243,482,Namor,good,Male,188,125,1,1,1,1,0,1,5,TRUE
+244,483,Namora,good,Female,180,85,50,85,42,42,41,64,324,FALSE
+245,484,Namorita,good,Female,168,101,50,72,47,70,30,70,339,TRUE
+246,487,Nebula,bad,Female,185,83,,,,,,,,FALSE
+247,488,Negasonic Teenage Warhead,good,Female,-99,-99,,,,,,,,FALSE
+248,489,Nick Fury,good,Male,185,99,75,11,23,42,25,100,276,FALSE
+249,490,Nightcrawler,good,Male,175,88,50,10,47,14,52,80,253,TRUE
+250,495,Northstar,good,Male,180,83,50,18,83,56,70,70,347,FALSE
+251,496,Nova,good,Male,185,86,100,85,67,101,100,85,538,TRUE
+252,497,Nova II,good,Female,163,59,38,60,100,100,100,25,423,TRUE
+253,498,Odin,good,Male,206,293,,,,,,,,TRUE
+254,500,Omega Red,bad,Male,211,191,1,1,1,1,0,1,5,
+255,503,One-Above-All,neutral,-,-99,-99,,,,,,,,TRUE
+256,504,Onslaught,bad,Male,305,405,88,85,47,100,100,85,505,FALSE
+257,511,Penance,good,-,-99,-99,1,1,1,1,0,1,5,
+258,512,Penance I,good,Female,-99,-99,1,1,1,1,0,1,5,
+259,513,Penance II,good,Male,183,89,1,1,1,1,0,1,5,FALSE
+260,518,Phoenix,good,Female,168,52,100,80,67,100,100,70,517,TRUE
+261,519,Plantman,bad,Male,183,87,,,,,,,,FALSE
+262,524,Polaris,good,Female,170,52,,,,,,,,FALSE
+263,526,Power Man,good,Male,-99,-99,1,1,1,1,0,1,5,
+264,528,Professor X,good,Male,183,86,100,8,12,14,90,32,256,FALSE
+265,530,Proto-Goblin,bad,Male,-99,-99,63,38,23,48,22,28,222,TRUE
+266,531,Psylocke,good,Female,180,70,1,1,1,1,0,1,5,TRUE
+267,532,Punisher,good,Male,183,90,50,16,23,28,22,100,239,TRUE
+268,533,Purple Man,bad,Male,180,74,,,,,,,,FALSE
+269,534,Pyro,bad,Male,178,68,38,10,12,14,50,28,152,FALSE
+270,538,Quicksilver,good,Male,183,79,63,28,100,60,57,56,364,FALSE
+271,539,Quill,good,Male,163,56,38,10,12,14,23,14,111,FALSE
+272,546,Razor-Fist II,bad,Male,191,117,1,1,1,1,0,1,5,FALSE
+273,549,Red Hulk,neutral,Male,213,630,50,88,47,95,59,75,414,FALSE
+274,552,Red Skull,bad,Male,188,108,75,10,12,14,19,80,210,FALSE
+275,558,Rhino,bad,Male,196,320,25,80,43,90,37,85,360,FALSE
+276,562,Ripcord,good,Female,180,72,1,1,1,1,0,1,5,FALSE
+277,568,Rocket Raccoon,good,Male,122,25,50,5,23,28,28,64,198,TRUE
+278,569,Rogue,good,Female,173,54,75,10,12,28,80,80,285,FALSE
+279,570,Ronin,good,Male,191,104,38,10,27,32,21,90,218,
+280,572,Sabretooth,bad,Male,198,171,55,53,25,90,28,100,351,TRUE
+281,573,Sage,good,Female,170,61,75,10,12,14,28,56,195,FALSE
+282,574,Sandman,neutral,Male,185,203,50,75,47,97,62,56,387,TRUE
+283,575,Sasquatch,good,Male,305,900,75,80,23,56,15,42,291,TRUE
+284,579,Scarlet Spider,good,Male,178,74,75,53,60,74,39,56,357,TRUE
+285,580,Scarlet Spider II,good,Male,193,113,88,55,60,40,30,56,329,TRUE
+286,581,Scarlet Witch,bad,Female,170,59,88,10,23,42,67,28,258,TRUE
+287,582,Scorpia,bad,Female,-99,-99,38,28,42,28,34,28,198,FALSE
+288,583,Scorpion,bad,Male,211,310,50,52,60,85,49,80,376,TRUE
+289,584,Sebastian Shaw,bad,Male,-99,-99,,,,,,,,TRUE
+290,585,Sentry,neutral,Male,188,87,75,80,58,84,97,54,448,TRUE
+291,586,Shadow King,good,-,185,149,75,12,27,100,100,75,389,FALSE
+292,588,Shadowcat,good,Female,168,50,88,8,21,25,69,70,281,FALSE
+293,589,Shang-Chi,good,Male,178,79,63,12,30,50,25,100,280,TRUE
+294,590,Shatterstar,good,Male,191,88,63,48,45,64,42,84,346,TRUE
+295,591,She-Hulk,good,Female,201,315,69,100,42,100,33,70,414,FALSE
+296,592,She-Thing,good,Female,183,153,1,1,1,1,0,1,5,FALSE
+297,593,Shocker,bad,Male,175,79,63,10,23,70,63,56,285,FALSE
+298,594,Shriek,good,Female,173,52,50,10,23,28,45,42,198,FALSE
+299,596,Sif,good,Female,188,191,50,57,25,52,19,70,273,TRUE
+300,597,Silk,good,Female,-99,-99,,,,,,,,TRUE
+301,600,Silver Surfer,good,Male,193,101,63,100,84,101,100,32,480,TRUE
+302,601,Silverclaw,good,Female,157,50,50,28,35,42,34,42,231,TRUE
+303,606,Siryn,bad,Female,168,52,38,8,47,28,50,42,213,FALSE
+304,607,Skaar,good,Male,198,180,50,85,27,90,62,85,399,FALSE
+305,608,Snake-Eyes,bad,Male,-99,-99,,,,,,,,
+306,609,Snowbird,good,Female,178,49,50,32,27,42,63,52,266,FALSE
+307,612,Songbird,good,Female,165,65,75,36,27,42,55,56,291,TRUE
+308,616,Speedball,good,Male,-99,-99,1,1,1,1,0,1,5,FALSE
+309,619,Spider-Carnage,bad,Male,-99,-99,1,1,1,1,0,1,5,
+310,620,Spider-Girl,good,Female,170,54,63,38,60,65,46,75,347,TRUE
+311,621,Spider-Gwen,good,Female,165,56,,,,,,,,TRUE
+312,623,Spider-Man,good,-,178,77,88,55,60,74,58,85,420,TRUE
+313,624,Spider-Man,good,Male,157,56,88,55,60,74,58,85,420,TRUE
+314,625,Spider-Woman,good,Female,178,59,50,42,42,32,62,52,280,TRUE
+315,626,Spider-Woman II,good,Female,-99,-99,1,1,1,1,0,1,5,
+316,627,Spider-Woman III,good,Female,173,55,50,48,27,42,60,28,255,TRUE
+317,628,Spider-Woman IV,bad,Female,178,58,1,1,1,1,0,1,5,TRUE
+318,630,Spyke,good,Male,183,83,50,12,17,60,41,30,210,FALSE
+319,631,Stacy X,good,Female,-99,-99,1,1,1,1,0,1,5,
+320,632,Star-Lord,good,Male,188,79,,,,,,,,TRUE
+321,633,Stardust,good,Male,-99,-99,88,85,100,110,100,85,568,FALSE
+322,640,Storm,good,Female,180,57,75,10,47,30,88,75,325,FALSE
+323,642,Sunspot,good,Male,173,77,63,63,35,25,79,70,335,FALSE
+324,648,Swarm,bad,Male,196,47,,,,,,,,FALSE
+325,650,Synch,good,Male,180,74,75,67,23,28,74,56,323,FALSE
+326,655,Taskmaster,bad,Male,188,99,,,,,,,,TRUE
+327,656,Tempest,good,Female,163,54,38,10,45,28,62,60,243,FALSE
+328,657,Thanos,bad,Male,201,443,88,100,17,100,100,80,485,TRUE
+329,660,Thing,good,Male,183,225,75,84,21,90,26,80,376,FALSE
+330,661,Thor,good,Male,198,288,69,100,92,100,100,85,546,TRUE
+331,662,Thor Girl,good,Female,175,143,75,83,70,84,100,70,482,FALSE
+332,663,Thunderbird,good,Male,185,101,50,32,27,32,14,70,225,FALSE
+333,664,Thunderbird II,good,Male,-99,-99,1,1,1,1,0,1,5,
+334,665,Thunderbird III,good,Male,175,74,1,1,1,1,0,1,5,FALSE
+335,666,Thunderstrike,good,Male,198,288,63,80,70,84,31,72,400,FALSE
+336,667,Thundra,good,Female,218,158,38,81,32,64,26,54,295,TRUE
+337,668,Tiger Shark,bad,Male,185,203,38,72,42,70,21,28,271,TRUE
+338,669,Tigra,good,Female,178,81,63,32,53,38,33,90,309,TRUE
+339,670,Tinkerer,bad,Male,163,54,100,10,23,14,10,14,171,FALSE
+340,672,Toad,neutral,Male,175,76,50,34,58,56,49,28,275,TRUE
+341,674,Toxin,good,Male,191,117,56,73,70,84,75,70,428,TRUE
+342,679,Triton,good,Male,188,86,,,,,,,,TRUE
+343,681,Ultragirl,good,Female,168,105,50,80,35,70,35,80,350,FALSE
+344,682,Ultron,bad,Male,206,331,88,83,42,100,100,64,477,TRUE
+345,683,Utgard-Loki,bad,Male,15.2,58,50,80,23,84,72,64,373,FALSE
+346,684,Vagabond,good,Female,168,54,1,1,1,1,0,1,5,
+347,686,Valkyrie,good,Female,191,214,1,1,1,1,0,1,5,FALSE
+348,687,Vanisher,bad,Male,165,79,63,10,75,56,39,42,285,FALSE
+349,689,Venom,bad,Male,191,117,75,57,65,84,79,84,444,FALSE
+350,690,Venom II,bad,Male,175,50,50,57,47,70,54,56,334,TRUE
+351,691,Venom III,bad,Male,229,334,63,73,35,90,66,56,383,TRUE
+352,692,Venompool,-,Male,226,-99,,,,,,,,TRUE
+353,693,Vertigo II,good,Female,168,52,1,1,1,1,0,1,5,FALSE
+354,695,Vindicator,good,Female,165,54,1,1,1,1,0,1,5,FALSE
+355,696,Vindicator II,good,Male,-99,-99,63,63,53,64,56,70,369,FALSE
+356,699,Vision,good,Male,191,135,100,72,54,95,76,70,467,FALSE
+357,700,Vision II,good,-,191,135,1,1,1,1,0,1,5,
+358,702,Vulcan,good,Male,-99,-99,1,1,1,1,0,1,5,
+359,703,Vulture,bad,Male,180,79,63,22,47,56,40,56,284,TRUE
+360,704,Walrus,bad,Male,183,162,50,28,8,50,11,20,167,FALSE
+361,705,War Machine,good,Male,185,95,63,80,63,100,100,85,491,FALSE
+362,706,Warbird,good,Female,180,54,1,1,1,1,0,1,5,
+363,707,Warlock,good,Male,188,108,88,36,79,95,71,95,464,TRUE
+364,709,Warpath,good,Male,218,158,38,72,47,70,26,84,337,TRUE
+365,710,Wasp,good,Female,163,50,63,8,58,52,23,42,246,TRUE
+366,711,Watcher,good,Male,-99,-99,100,80,67,89,100,56,492,FALSE
+367,712,Weapon XI,bad,Male,-99,-99,1,1,1,1,0,1,5,TRUE
+368,714,White Queen,good,Female,178,65,1,1,1,1,0,1,5,
+369,716,Winter Soldier,good,Male,175,117,56,32,35,65,60,84,332,FALSE
+370,717,Wiz Kid,good,-,140,39,1,1,1,1,0,1,5,
+371,718,Wolfsbane,good,Female,366,473,38,16,35,42,26,42,199,FALSE
+372,719,Wolverine,good,Male,160,135,55,32,38,100,44,100,369,TRUE
+373,721,Wonder Man,good,Male,188,171,75,100,53,90,64,64,446,FALSE
+374,723,Wondra,good,Female,-99,-99,1,1,1,1,0,1,5,
+375,724,Wyatt Wingfoot,good,Male,196,117,10,10,12,1,1,56,90,
+376,725,X-23,good,Female,155,50,75,24,35,90,27,85,336,TRUE
+377,726,X-Man,good,Male,175,61,88,53,53,95,92,84,465,FALSE
+378,727,Yellow Claw,bad,Male,188,95,1,1,1,1,0,1,5,
+379,728,Yellowjacket,good,Male,183,83,88,10,12,28,12,14,164,FALSE
+380,729,Yellowjacket II,good,Female,165,52,50,10,35,28,31,28,182,FALSE
+381,730,Ymir,good,Male,304.8,-99,50,100,27,100,83,28,388,FALSE

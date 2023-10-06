@@ -1,0 +1,5 @@
+sales=map(int, input("Enter a data for week(comma separated) : ").split(','))
+sales=list(sales)
+print(sales)
+sales[3]
+print(sales)

@@ -1,0 +1,16 @@
+num= int(input("Enter a number : "))
+for i in range(1,11):
+    print(num, 'x', i, '=', num*i)
+
+
+
+my_dict={'Name':'Yogesh', 'Middle_name':'Bharat','Last_name':'Deotale'}
+my_dict.keys()
+
+food=input("Enter food: ")
+if food=="cake":
+    print("I like it !! ")
+elif food=="burgur":
+    print("I am really bore with it !")
+else:
+    print("Anythin g will be fine for me now !!")

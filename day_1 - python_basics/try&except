@@ -1,0 +1,6 @@
+try:
+    a=int(input("Require input : "))
+    print(a+10)
+except:
+        print("Kindly enter a integers only")
+
