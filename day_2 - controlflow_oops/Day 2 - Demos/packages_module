@@ -1,0 +1,132 @@
+#Packages and modules->
+
+#Built in functions: The functions for which we dont need to import any library
+    #they are already installed by a python we can directly import it.
+
+
+#Modules-> Modules are nothing but python or .py files inside which we write our code.
+
+#Packages-> Packages are notjing but collection of differnt modules.
+
+"""
+# Import statement:-import statement is uesed to load the modules in python.
+    We can import it with a desirable name. Like below 
+
+    import numpy as np 
+
+
+"""
+# How to import module from a package 
+
+from my_package import calculator as cl
+print(cl.add2num(1,2))
+
+from my_packages import*   #To import everything from the module 
+
+# dir--> dir os a library which provids the list of string containing the name define by the modules.
+
+#eg.
+import math
+print(dir (math))
+
+
+# Important modules in python 
+
+"""
+1) Sys
+2) OS
+3) Math
+4) DateTime
+5) Random 
+
+"""
+
+# 1) Sys:
+"""
+Sys module provides access to some variables that are used and maintained by the interpretor 
+ and to the function also which strongly interact with interpretor.
+
+"""
+eg,
+import sys
+print(sys.argv)
+
+eg,
+import sys
+print(sys.quit)     # inform python interpretor to quite 
+
+# 2) OS:
+"""
+OS module includes code that let the python work with your operating system and run some operating 
+system command.
+https://www.geeksforgeeks.org/os-module-python-examples/
+"""
+eg, 
+import os
+print(os.cwd())    # To get the current working directory 
+
+
+import os
+os.mkdir('Yogesh44')   # To make directory 
+
+import os
+os.chdir('/packages_modules/pallindrom')        # To change the current working directory 
+
+import os
+os.rmdir('Name of directory')    # To remove the directory 
+
+# Some more OS command as follow
+
+import os
+print(os.name )    #Returns the name of operating system dependent module imported 
+
+import os
+print(os.environ)    # Returns the mapping object representing the string environment 
+
+import os
+print(os.getlogin())    # Represemnts the user logged in in controlling terminal of thr process.
+
+import os
+print(os.getppid)   # To get the unique id of the process.
+
+ 
+# 3) Math: Math module provides  access to the  mathematical functions.
+# https://www.geeksforgeeks.org/python-math-module/
+
+import math
+print(math.ceil(10.98))   # CEIL FUNCTION IS USED TO GET THE ROUND OFF VALUE OF NUMBER
+
+import math 
+print(math.copysign(19,-1))   # It will returns the x with sign of y  
+
+import math 
+print(math.fabs(-19.5))   #Rturns a absolute value i.e. the positive value.
+
+
+# 4) DateTime:  https://www.geeksforgeeks.org/python-datetime-module/
+
+
+
+
+# 5) Random: Ramdom module impliments random number generation for various distribution.
+ #https://www.geeksforgeeks.org/python-random-module/
+eg, 
+
+import random 
+num= random.randrange(100)   # Will generate a random number between 1-100.
+print(num)
+
+import random 
+ran= random.randrange(0,20,3)  #It will return a number between start to end with given steps.
+print(ran)
+
+import random
+inte=random.randint(0,30)  # It will return an integer  inte>=0 inte<=30
+print(inte)
+print(random.getstate)
+
+import random
+print(random.getstate)  # To get the current state of a generator.and
+
+import random 
+print(random.uniform(2,6))  # It will returns random floating number.

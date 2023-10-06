@@ -1,0 +1,6 @@
+def deposit(self):
+        amount=float(input('Enter a amount to Deposit:'))
+        self.balence+=amount
+        print(f'You have deposited{amount}:')
+
+deposit()

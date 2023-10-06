@@ -1,0 +1,12 @@
+s=input("Enter string:")
+for i in  range(0,len(s)//2):
+    if(s[i]!=s[len(s)-1-i]):
+        found = False
+        break
+else:
+    found= True
+if found:
+    print("Srring is pallindrom")
+else:
+    print("Sring is not a pallindrom ")
+
